@@ -1,0 +1,41 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+body {
+	font-family: 'Lora';
+	font-size: 18px;
+	margin: 0;
+	align-content: center;
+	background-color: rgb(240,240,240);
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Poppins'
+	font-weight: bold;
+	align-content: center;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 36px;
+	font-weight: 200;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
